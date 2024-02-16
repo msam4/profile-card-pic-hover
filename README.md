@@ -14,7 +14,6 @@ serve
 ## Built With
 - HTML
 - CSS
-- Vanilla JavaScript 
 
 ## Acknowledgements
 Follow Coding Artist's [tutorial](https://www.youtube.com/watch?v=N-qshcQcJz4).
